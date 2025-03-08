@@ -1,3 +1,1 @@
-assets/images
-![Preview Image](https://github.com/akshaymatere-333/Series-Generation-and-Product-Record/assets/images/Spray.png)
-![image alt](https://github.com/akshaymatere-333/Series-Generation-and-Product-Record/tree/ff6058ff9b0a40866868538ecd77d18932aeb5cb/assets/images)
+![image alt](https://github.com/akshaymatere-333/Series-Generation-and-Product-Record/blob/86afb7250511e1216b724459c40b3cf3c7661362/assets/images/Screenshot%202025-02-13%20183826.png)
